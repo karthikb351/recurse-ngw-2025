@@ -10,7 +10,7 @@ timeline
         : Puzzled Pint <br> (6.30pm) <br><br> Contact - Karthik
     Wednesday, 14th May : Impossible Day Demos (10am - 2pm) <br><br> Contact - Ishan
         : Tabletop Hackday (3pm - 11pm) <br><br> Contact - Karthik/Nemo
-    Thursday, 14th May : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Tanvi
+    Thursday, 15th May : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Tanvi
 ```
 
 
