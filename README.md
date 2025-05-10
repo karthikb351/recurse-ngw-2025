@@ -15,7 +15,7 @@ timeline
 
 ## Propose a talk/session
 
-This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in [`/schedule`](https://github.com/karthikb351/recurse-ngw-2025/new/main/schedule)
+This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/recurse-ngw-2025/new/main/schedule)
 
 
 # Who are we?
