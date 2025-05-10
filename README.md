@@ -7,7 +7,7 @@ timeline
     title Schedule
     Monday, 12th May :  Data hackathon <br><br> Contact - Karthik D
     Tuesday, 13th May : Impossible Day (10am - 6pm) <br><br> Contact - Ishan
-        : Puzzled Pint <br> (6.30pm) <br><br> Contact - Karthik
+        :Puzzled Pint <br> (6.30pm) <br><br> Contact - Karthik
     Wednesday, 13th May : Impossible Day Demos (10am - 2pm) <br><br> Contact - Ishan
         : Tabletop Hackday (3pm - 11pm) <br><br> Contact - Karthik/Nemo
     Thursday, 14th May : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Tanvi
