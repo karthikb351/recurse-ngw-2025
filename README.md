@@ -5,12 +5,12 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 ```mermaid
 timeline
     title Schedule
-    Monday, 12th May :  Data hackathon <br><br> Contact - Karthik D
-    Tuesday, 13th May : Impossible Day (10am - 6pm) <br><br> Contact - Ishan / Unnati
+    Mon, 12th May <br> 10am - 5.30pm <br> Underline Center :  Data hackathon <br><br> Contact - Karthik D
+    Tue, 13th May <br> 10am - 6.30pm <br> Underline Center : Impossible Day (10am - 6pm) <br><br> Contact - Ishan / Unnati
         : Puzzled Pint <br> (6.30pm) <br><br> Contact - Karthik
-    Wednesday, 14th May : Impossible Day Demos (10am - 2pm) <br><br> Contact - Ishan
+    Wed, 14th May <br> 10am - 11pm <br> Underline Center  : Impossible Day Demos (10am - 2pm) <br><br> Contact - Ishan
         : Tabletop Hackday (3pm - 11pm) <br><br> Contact - Karthik/Nemo
-    Thursday, 15th May : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Tanvi
+    Thu, 15th May <br> 10am - 6pm <br> Underline Center  : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Tanvi
 ```
 
 
