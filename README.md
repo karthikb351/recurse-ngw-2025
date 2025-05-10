@@ -6,7 +6,7 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 timeline
     title Schedule
     Monday, 12th May :  Data hackathon <br><br> Contact - Karthik D
-    Tuesday, 13th May : Impossible Day (10am - 6pm) <br><br> Contact - Ishan
+    Tuesday, 13th May : Impossible Day (10am - 6pm) <br><br> Contact - Ishan / Unnati
         : Puzzled Pint <br> (6.30pm) <br><br> Contact - Karthik
     Wednesday, 14th May : Impossible Day Demos (10am - 2pm) <br><br> Contact - Ishan
         : Tabletop Hackday (3pm - 11pm) <br><br> Contact - Karthik/Nemo
