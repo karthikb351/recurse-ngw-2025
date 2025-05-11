@@ -21,6 +21,25 @@ This schedule is community-driven, so please consider proposing a talk/session/h
 # Who are we?
 We are a group of tech and tech-adjacent enthusiasts, many of whom are alumni of [Recurse Center](https://recurse.com). We meet every Tuesday to co-work together as part of the [Recursive Coworking Meetup](https://captnemo.in/cowork/).
 
+# Events
+
+## Data Hackathon
+
+Hack on data-first projects. Build data visualizations, release a new dataset, or do data-wizardry in general.
+
+## Impossible Day
+
+Take a project that you think is impossibly hard. Push yourselves a little bit, on a short timeframe (1 day) and see how far you get.
+
+## Tabletop Hackday
+
+Hack on the intersection of boardgames and computing. Write a bot, simulate a game, write a solver, or analyse a game. We hosted an earlier version of this event at https://underline.center/t/tabletop-hackday-with-nemo-and-karthik/239
+
+## IndieWeb Homebrew Website Club
+
+Join the indieweb - hack on your own website. https://indieweb.org/
+
+> The IndieWeb is a people-focused alternative to the “corporate web”. 
 
 # Code of Conduct
 
