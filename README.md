@@ -23,19 +23,19 @@ We are a group of tech and tech-adjacent enthusiasts, many of whom are alumni of
 
 # Events
 
-## Data Hackathon
+## Data Hackathon (Karthik D)
 
 Hack on data-first projects. Build data visualizations, release a new dataset, or do data-wizardry in general.
 
-## Impossible Day
+## Impossible Day (Ishan / Unnati)
 
 Take a project that you think is impossibly hard. Push yourselves a little bit, on a short timeframe (1 day) and see how far you get.
 
-## Tabletop Hackday
+## Tabletop Hackday (Karthik / Nemo)
 
 Hack on the intersection of boardgames and computing. Write a bot, simulate a game, write a solver, or analyse a game. We hosted an earlier version of this event at https://underline.center/t/tabletop-hackday-with-nemo-and-karthik/239
 
-## IndieWeb Homebrew Website Club
+## IndieWeb Homebrew Website Club (Karthik / Tanvi)
 
 Join the indieweb - hack on your own website. https://indieweb.org/
 
