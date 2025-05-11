@@ -52,12 +52,17 @@ Please note that all NGW events will be under the [Recurse Center Code of Conduc
 > **No well-actually’s**
 >
 > Alice: I just installed Linux on my computer!
+> 
 > Bob: It’s actually called GNU/Linux.
+> 
 > A well-actually is when you correct someone about something that’s not relevant to the conversation or tangential to what they’re trying to say.
 >
 > **No feigning surprise**
+> 
 > Dan: What’s the command line?
+> 
 > Carol: Wait, you’ve never used the command line?
+> 
 > Feigned surprise is when you act surprised when someone doesn’t know something. Responding with surprise in this situation makes people feel bad for not knowing things and less likely to ask questions in the future, which makes it harder for them to learn.
 >
 > **No backseat driving**
