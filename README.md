@@ -31,7 +31,11 @@ Hack on data-first projects. Build data visualizations, release a new dataset, o
 
 Take a project that you think is impossibly hard. Push yourselves a little bit, on a short timeframe (1 day) and see how far you get.
 
-## Tabletop Hackday (Karthik / Nemo)
+## [Puzzled Pint](./schedule/puzzledpint.md)
+
+Puzzled Pint is a casual, social puzzle solving event which happens at bars/pubs on the second Tuesday of every month in multiple cities around the world. 
+
+## [Tabletop Hackday (Karthik / Nemo)](./schedule/tabletop-hackday.md)
 
 Hack on the intersection of boardgames and computing. Write a bot, simulate a game, write a solver, or analyse a game. We hosted an earlier version of this event at https://underline.center/t/tabletop-hackday-with-nemo-and-karthik/239
 
