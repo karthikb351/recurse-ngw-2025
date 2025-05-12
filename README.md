@@ -10,7 +10,7 @@ timeline
         : Puzzled Pint (nearby location) <br> (6.30pm - 11pm) <br><br> Contact - Karthik
     Wed, 14th May <br> 10am - 11pm <br> Underline Center  : Impossible Day Demos (10am - 2pm) <br><br> Contact - Ishan
         : Tabletop Hackday (3pm - 11pm) <br><br> Contact - Karthik/Nemo
-    Thu, 15th May <br> 10am - 6pm <br> Underline Center  : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Tanvi
+    Thu, 15th May <br> 10am - 6pm <br> Underline Center  : IndieWeb Homebrew Website Club (11am - 3pm) <br><br> Contact - Karthik/Ankur/Tanvi
 ```
 
 ## Propose a talk/session
@@ -39,7 +39,7 @@ Puzzled Pint is a casual, social puzzle solving event which happens at bars/pubs
 
 Hack on the intersection of boardgames and computing. Write a bot, simulate a game, write a solver, or analyse a game. We hosted an earlier version of this event at https://underline.center/t/tabletop-hackday-with-nemo-and-karthik/239
 
-## IndieWeb Homebrew Website Club (Karthik / Tanvi)
+## IndieWeb Homebrew Website Club (Karthik / Ankur / Tanvi)
 
 Join the indieweb - hack on your own website. https://indieweb.org/
 
