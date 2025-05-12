@@ -67,11 +67,15 @@ Please note that all NGW events will be under the [Recurse Center Code of Conduc
 >
 > **No backseat driving**
 > Bob: What’s the name of the string copy function?
+> 
 > Alice: Strncpy.
+> 
 > Eve: (from across the room) You should use strlcpy. It’s safer.
 > Backseat driving is when you lob advice from across the room (or across the online chat) without really joining or engaging in a conversation.
 >
 > **No subtle -isms**
 > Carol: Windows is hard to use.
+> 
 > Bob: No way. Windows is so easy to use that even my mom can use it.
+> 
 > Subtle -isms are small things that make others feel unwelcome, things that we all sometimes do by mistake. Subtle -isms make people feel like they don’t belong. There’s another part of no subtle -isms: all discussions of -isms and politics at NGW should be opt-in, like in a one-on-one conversation, or in a clearly described event in a private room.
