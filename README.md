@@ -66,6 +66,7 @@ Please note that all NGW events will be under the [Recurse Center Code of Conduc
 > Feigned surprise is when you act surprised when someone doesn’t know something. Responding with surprise in this situation makes people feel bad for not knowing things and less likely to ask questions in the future, which makes it harder for them to learn.
 >
 > **No backseat driving**
+> 
 > Bob: What’s the name of the string copy function?
 > 
 > Alice: Strncpy.
@@ -74,6 +75,7 @@ Please note that all NGW events will be under the [Recurse Center Code of Conduc
 > Backseat driving is when you lob advice from across the room (or across the online chat) without really joining or engaging in a conversation.
 >
 > **No subtle -isms**
+> 
 > Carol: Windows is hard to use.
 > 
 > Bob: No way. Windows is so easy to use that even my mom can use it.
